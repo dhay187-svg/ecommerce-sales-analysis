@@ -36,6 +36,14 @@ The analysis includes data cleaning, exploratory data analysis (EDA), SQL analys
 
 ![Power BI Dashboard](powerbi_dashboard.png)
 
+## Key Insights
+
+- The highest-performing sales month was identified through monthly revenue analysis.
+- The United Kingdom generated the largest share of total revenue.
+- Best-selling products were identified based on total quantity sold.
+- High-value customers were identified using revenue analysis and RFM segmentation.
+- RFM analysis helped classify customers into High-Value, Loyal, At-Risk, and Regular customer segments.
+  
 ## Customer Segmentation
 Customers were segmented using RFM analysis into groups such as:
 - High-Value Customers
