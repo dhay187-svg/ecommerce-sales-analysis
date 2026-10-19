@@ -32,6 +32,10 @@ The analysis includes data cleaning, exploratory data analysis (EDA), SQL analys
 - Revenue by Country
 - Top Customers by Revenue
 
+- ## Power BI Dashboard
+
+![Power BI Dashboard](powerbi_dashboard.png)
+
 ## Customer Segmentation
 Customers were segmented using RFM analysis into groups such as:
 - High-Value Customers
